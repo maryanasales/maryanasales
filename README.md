@@ -8,6 +8,9 @@ Em busca do caminho do meio, onde a tecnologia e a natureza possam caminhar junt
 
 👧 25 anos
 🦄 Designer gráfico, web e artesanal
-💻 Desenvolvedora front-end
+💻 Dev. front-end
 🌊 Co-fundadora da Criativo Bruma
-🎓 Graduada em Produção Multimídia
+🎓 Produção Multimídia
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maryanasales)](https://www.linkedin.com/in/maryanasales)
+[![Behance Badge](https://img.shields.io/badge/-Behance-black?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/maryanasales)](https://www.behance.net/maryanasales)
